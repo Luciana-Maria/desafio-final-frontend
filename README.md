@@ -61,15 +61,15 @@ A aplicação apresenta as seguintes funcionalidades:
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
-- Axios:usada para fazer requisições HTTP.
-- ReactJS:Uma biblioteca JavaScript para construir interfaces de usuário.
+-  <strong>Axios:</strong>usada para fazer requisições HTTP.
+-  <strong>ReactJS:</strong>Uma biblioteca JavaScript para construir interfaces de usuário.
 -  <strong>ReactDOM:</strong>Uma biblioteca específica do React que lida com a manipulação do DOM
-- React Icons:Uma biblioteca que fornece ícones prontos para uso em aplicações React.
+- <strong>React Icons:</strong>Uma biblioteca que fornece ícones prontos para uso em aplicações React.
 - React Responsive:Uma biblioteca para tornar os componentes React responsivos.
-- React Router Dom:Uma biblioteca para adicionar navegação de página para aplicações React
-- Styled Components:Uma biblioteca para escrever estilos CSS diretamente em componentes React.
-- Swiper:Uma biblioteca de slider/touch/swipe para React.
-- ViteJS:Um framework para construir aplicações web modernas.
+-  <strong>React Router Dom:</strong>Uma biblioteca para adicionar navegação de página para aplicações React
+-  <strong>Styled Components:</strong>Uma biblioteca para escrever estilos CSS diretamente em componentes React.
+-  <strong>Swiper:</strong>Uma biblioteca de slider/touch/swipe para React.
+-  <strong>ViteJS:</strong>Um framework para construir aplicações web modernas.
 
 <h2 id="usage">💡 UTILIZAÇÃO</h2>
 
