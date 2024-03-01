@@ -63,7 +63,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - Axios:usada para fazer requisições HTTP.
 - ReactJS:Uma biblioteca JavaScript para construir interfaces de usuário.
-- ReactDOM:Uma biblioteca específica do React que lida com a manipulação do DOM
+-  <strong>ReactDOM:</strong>Uma biblioteca específica do React que lida com a manipulação do DOM
 - React Icons:Uma biblioteca que fornece ícones prontos para uso em aplicações React.
 - React Responsive:Uma biblioteca para tornar os componentes React responsivos.
 - React Router Dom:Uma biblioteca para adicionar navegação de página para aplicações React
