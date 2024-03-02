@@ -73,7 +73,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 <h2 id="usage">💡 UTILIZAÇÃO</h2>
 
-A aplicação Food Explorer está disponível para uso [aqui](foot-desafio.netlify.app).
+A aplicação Food Explorer está disponível para uso [aqui](https://foot-desafio.netlify.app).
 
 Você também pode executá-la em sua máquina localmente. Certifique-se de ter o ``Node.js`` e o ``npm`` instalados antes de prosseguir com as etapas abaixo:
 
