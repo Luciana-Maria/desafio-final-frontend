@@ -73,20 +73,20 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 <h2 id="usage">💡 UTILIZAÇÃO</h2>
 
-A aplicação Food Explorer está disponível para uso [aqui]().
+A aplicação Food Explorer está disponível para uso [aqui](foot-desafio.netlify.app).
 
 Você também pode executá-la em sua máquina localmente. Certifique-se de ter o ``Node.js`` e o ``npm`` instalados antes de prosseguir com as etapas abaixo:
 
 1. Clone o projeto:
 
 ```
-$ git clone 
+$ git clone https://github.com/Luciana-Maria/desafio-final-frontend
 ```
 
 2. Acesse a pasta do projeto:
 
 ```
-$ cd food-explorer-frontend
+$ cd desafio-final-frontend
 ```
 
 3. Instale as dependências:
